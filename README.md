@@ -19,4 +19,4 @@ analizza come implementarlo in un programma modulare in linguaggio C. Il libro p
 cui ogni gioco viene analizzato e sviluppato secondo le categorie precedentemente introdotte. 
 Il codice sorgente è interamente riportato
 
-![copertina](mezza.jpg)
+![copertina](bianca_quarta_mezza.jpeg)
