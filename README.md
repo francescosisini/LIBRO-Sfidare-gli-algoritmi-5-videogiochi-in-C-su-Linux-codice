@@ -1,4 +1,4 @@
-#Sfidare gli algoritmi: 5 videogiochi in C su Linux
+# Sfidare gli algoritmi: 5 videogiochi in C su Linux
 [Vai su Amazon](https://www.amazon.it/dp/1695109325)
 
 Una tastiera, un libro e il terminale. Passare un po' di tempo esaminando il codice scritto da altri è sempre piacevole.
