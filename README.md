@@ -6,9 +6,11 @@ Per giocare a questi videogiochi non sono richiesti i rifessi pronti, ma conosce
 di astuzia e inventiva.<br>
 La partita si svolge all'editor di codice, e solo alla fine si guardano i risultati, compilando ed eseguendo i propri algoritmi.
 ## Come giocare
-clonare o scaricare il repository e seguire le istruzioni riportate nella cartella del gioco a cui si vuole giocare.<br>
-Per esempio:
-- 
+Clonare o scaricare il repository e seguire le istruzioni riportate nella cartella del gioco a cui si vuole giocare.<br>
+ Per esempio:
+ - Clonare o scaricare il progetto: ```$ git clone https://github.com/francescosisini/LIBRO-Sfidare-gli-algoritmi-5-videogiochi-in-C-su-Linux-codice.git```
+ - Cambiare directory sul gioco 3: ```$ cd 3```
+ - Seguire le istruzioni del Readme
 
 
 
