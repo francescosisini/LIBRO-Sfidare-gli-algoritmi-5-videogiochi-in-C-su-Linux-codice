@@ -1,6 +1,17 @@
 # Sfidare gli algoritmi: 5 videogiochi in C su Linux
 [Vai su Amazon](https://www.amazon.it/dp/1695109325)
 
+## Giocare un videogioco sviluppando l'agent in linguaggio C
+Per giocare a questi videogiochi non sono richiesti i rifessi pronti, ma conoscenza del linguaggio C e un po'
+di astuzia e inventiva.<br>
+La partita si svolge all'editor di codice, e solo alla fine si guardano i risultati, compilando ed eseguendo i propri algoritmi.
+## Come giocare
+clonare o scaricare il repository e seguire le istruzioni riportate nella cartella del gioco a cui si vuole giocare.<br>
+Per esempio:
+- 
+
+
+
 Una tastiera, un libro e il terminale. Passare un po' di tempo esaminando il codice scritto da altri è sempre piacevole.
 Commentare i nomi dati alle funzioni, il ciclo che si poteva risparmiare, il puntatore che sicuramente esce 
 di scope senza essere stato azzerato. Eppure anche nell'imperfezione dei programmi altrui si nascondono 
