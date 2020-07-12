@@ -1,5 +1,5 @@
 # Installazione e gioco
-## Preparazione dell'amabiente
+## Preparazione dell'ambiente
 - compilare ```tuki3_mvc.c```:<br>
 ```$ gcc -c tuki3_mvc.c```
 - modificare a piacere il file ```turno_tuki.c```
